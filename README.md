@@ -9,6 +9,7 @@ Real-time or batch processing.
 Visualization of sentiment trends.
 
 DATA PIPELINE :-
+
 * Exploring dataset
 * Lower casing
 * Removing duplicates
@@ -20,3 +21,4 @@ DATA PIPELINE :-
 * Lemmatization
 * Tfidf Vectorization
 * Model Implementation
+* Model Evalution
