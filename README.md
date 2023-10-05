@@ -18,4 +18,5 @@ DATA PIPELINE :-
 * Stopwords Removal
 * Stemming
 * Lemmatization
-* Tfidf 
+* Tfidf Vectorization
+* Model Implementation
