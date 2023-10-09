@@ -8,7 +8,8 @@ Sentiment analysis of Twitter posts.
 Real-time or batch processing.
 Visualization of sentiment trends.
 
-A Twitter sentiment analyzer is an application that analyzes the sentiment (positive, negative, or neutral) of tweets posted on the social media platform Twitter. # Common uses of Twitter sentiment analyzer project:-
+A Twitter sentiment analyzer is an application that analyzes the sentiment (positive, negative, or neutral) of tweets posted on the social media platform Twitter.<br>
+# Common uses of Twitter sentiment analyzer project:-
 
 * Brand Reputation Management 
 * Product Feedback
