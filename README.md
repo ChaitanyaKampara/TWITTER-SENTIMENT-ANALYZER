@@ -13,7 +13,7 @@ A Twitter sentiment analyzer is an application that analyzes the sentiment (posi
 * Brand Reputation Management 
 * Product Feedback
 * Market Research
-Political Analysis 
+* Political Analysis 
 Crisis Management
 
 Customer Support: 
