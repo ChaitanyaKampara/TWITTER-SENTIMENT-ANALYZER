@@ -8,7 +8,17 @@ Sentiment analysis of Twitter posts.
 Real-time or batch processing.
 Visualization of sentiment trends.
 
-DATA PIPELINE :-
+A Twitter sentiment analyzer is an application that analyzes the sentiment (positive, negative, or neutral) of tweets posted on the social media platform Twitter. Here are some common uses of Twitter sentiment analyzers:-
+
+* Brand Reputation Management 
+* Product Feedback
+* Market Research
+Political Analysis 
+Crisis Management
+
+Customer Support: 
+
+# DATA PIPELINE :-
 
 * Exploring dataset
 * Lower casing
