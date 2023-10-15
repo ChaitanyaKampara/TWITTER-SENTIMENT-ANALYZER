@@ -28,7 +28,7 @@ A Twitter sentiment analyzer is an application that analyzes the sentiment (posi
 * Text Normalization
 * Stopwords Removal
 * Stemming
-* Lemmatization
+* Lemmatization =>    using seperate dictionary 
 * Tfidf Vectorization
 * Model Implementation
 * Model Evalution
