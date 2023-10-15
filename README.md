@@ -1,5 +1,4 @@
 # TWITTER-SENTIMENT-ANALYZER
-
 I am working on this project without using any type of libraries
 (except pandas,Numpy,Re)
 
