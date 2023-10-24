@@ -2,7 +2,7 @@
 I am working on this project without using any type of libraries
 (except pandas,Numpy,Re)
 
-# Key features of your Twitter sentiment analyzer:
+# Key features of your Twitter sentiment analyzer: 
 
 Sentiment analysis of Twitter posts.
 Real-time or batch processing.
