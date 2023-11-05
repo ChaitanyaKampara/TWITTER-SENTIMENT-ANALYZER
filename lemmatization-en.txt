@@ -13,7 +13,7 @@ abash	abashed
 abash	abashes
 abash	abashing
 abate	abated
-abate	abates
+abate	abates 
 abate	abating
 abatement	abatements
 abattoir	abattoirs
